@@ -27,4 +27,3 @@ def do_pack():
         return n
     except:
         return None
-    
